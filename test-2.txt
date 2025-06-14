@@ -1,0 +1,3 @@
+Edited file
+added first line in test-2 file
+Third line in test-2 file
